@@ -1,0 +1,26 @@
+.texte
+{
+  max-width: 50%;
+  min-width: 50%;
+  max-height: 400px;
+  min-height: 400px;
+  margin-left: 25%;
+  margin-top: 5%;
+  overflow-y:scroll;
+}
+.boutons
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.titre
+{
+  max-width: 50%;
+  min-width: 50%;
+  margin-left: 25%;
+}
+.clear
+{
+  margin-bottom: 5%;
+}
